@@ -4,13 +4,10 @@ Making the world better, one thoughtful solution at a time.
 
 ---
 
-I'm a builder with the vision of a product designer and the precision of an architect. I see how things could be, then build systems that scale. Some of the code I've written now runs in the hands of millions.
-
-I also build frameworks on the side — because some problems are too interesting not to solve properly.
-
 ### Currently
 
-- **Co-founder at [Trukkr](https://trukkr.pk)** — Revolutionizing freight logistics in Pakistan. $6.4M seed, backed by Yango.
+- Co-founder at **[Trukkr](https://trukkr.pk)** — Freight logistics, $6.4M seed, backed by Yango.
+- Building a few frameworks — more on that soon.
 
 ### Previously
 
