@@ -1,25 +1,26 @@
 # Hey, I'm Kasra.
 
-Builder. Co-founder. Craftsman.
-
-I believe technology should be useful, intentional, and — when done right — beautiful.
+Making the world better, one thoughtful solution at a time.
 
 ---
 
-### What I'm working on
+I'm a builder with the vision of a product designer and the precision of an architect. I see how things could be, then build systems that scale. Some of the code I've written now runs in the hands of millions.
 
-- **Co-founder at [Trukkr](https://trukkr.pk)** — Revolutionizing freight logistics in Pakistan. Raised $6.4M seed, backed by Yango.
-- **Building open-source frameworks** for the AI economy — starting with autonomous wallets, agent-to-agent payments, and the infrastructure layer for what comes next.
+I also build frameworks on the side — because some problems are too interesting not to solve properly.
+
+### Currently
+
+- **Co-founder at [Trukkr](https://trukkr.pk)** — Revolutionizing freight logistics in Pakistan. $6.4M seed, backed by Yango.
 
 ### Previously
 
-- **Creditbook** (Founding Team) — Fintech for small businesses. Code I wrote reached 4M+ users.
-- **Respired.io** (Founding Team) — AI-powered social media platform. Incubated at Harvard, Boston.
+- **[Creditbook](https://creditbook.pk)** (Founding Team) — Fintech for small businesses. 4M+ downloads.
+- **[Respired.io](https://www.respired.io)** (Founding Team) — AI-powered social media. Incubated at Harvard.
 - **Area of Darkness: No Escape** — Pakistan's first AAA VR game. Published on Steam.
 
-### Things I care about
+### Interests
 
-`AI Infrastructure` · `Agent Economics` · `Developer Tools` · `Product Craft` · `HTTP 402`
+`AI Infrastructure` · `Agent Economics` · `Developer Tools` · `Product Craft` · `Gamification`
 
 ---
 
